@@ -40,3 +40,18 @@ This project explores how artificial intelligence and data visualization can hel
 
 📌 Acknowledgments
 Built as part of the World Academy Career Programme. Special thanks to mentors and peers for guidance and feedback.
+
+Sure! Here's a clean and professional section you can include in your README file to highlight your Streamlit apps:
+
+📊 Streamlit Applications
+Explore the interactive tools built for data analysis and real-time insights:
+
+- 🔍 Exploratory Data Analysis (EDA):
+Dive into your dataset with visual summaries and statistical insights.
+Launch EDA App
+- 📈 Real-Time Data Monitoring:
+Track live data streams and observe dynamic changes as they happen.
+Launch Real-Time Data App
+
+Let me know if you'd like to add usage instructions, screenshots, or deployment details to this section!
+
