@@ -40,3 +40,11 @@ This project explores how artificial intelligence and data visualization can hel
 
 📌 Acknowledgments
 Built as part of the World Academy Career Programme. Special thanks to mentors and peers for guidance and feedback.
+
+Result and Proof:
+
+https://mathamatics-ai2-i2eqvsqqxllti7uhcnyefq.streamlit.app/
+That’s for EDA in streamlit
+https://mathamatics-ai2-8mobqyjv5bkyvnhaudhc9m.streamlit.app/
+That’s for real time data
+
