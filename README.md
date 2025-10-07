@@ -1,9 +1,9 @@
 📦 AI Delivery Insights Dashboard
-An interactive dashboard that transforms raw delivery data into actionable insights using data analytics and AI — built as part of the World Academy Career Programme (WACP).
+An interactive dashboard that transforms raw delivery data into actionable insights using data analytics and AI — built as part of the World Academy Career Program (WACP).
 
 
 🚀 Project Overview
-This project explores how artificial intelligence and data visualization can help logistics managers understand and improve last-mile delivery performance. It was developed under the WACP framework to showcase technical skills, storytelling with data, and career readiness.
+This project examines how artificial intelligence and data visualization can aid logistics managers in understanding and enhancing last-mile delivery performance. It was developed under the WACP framework to showcase technical skills, storytelling with data, and career readiness.
 
 
 🎯 Goals
@@ -39,4 +39,13 @@ This project explores how artificial intelligence and data visualization can hel
 
 
 📌 Acknowledgments
-Built as part of the World Academy Career Programme. Special thanks to mentors and peers for guidance and feedback.
+Built as part of the World Academy Career Program. Special thanks to mentors and peers for guidance and feedback.
+
+📌Result and Proof:
+
+https://mathamatics-ai2-i2eqvsqqxllti7uhcnyefq.streamlit.app/
+That’s for EDA in Streamlit
+
+https://mathamatics-ai2-8mobqyjv5bkyvnhaudhc9m.streamlit.app/
+That’s for real-time data
+
